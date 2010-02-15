@@ -1,0 +1,5 @@
+jQuery plugin for adding-removing dynamic rows.
+Row can be any HTML elements, common elements are:
+- row on table (tr)
+- li on ul or ol
+- or any block element (div, p, etc)
